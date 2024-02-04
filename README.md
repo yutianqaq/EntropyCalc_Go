@@ -1,5 +1,9 @@
 # EntropyCalc_Go
 
+[English](https://github.com/yutianqaq/EntropyCalc_Go/readme_en) [简体中文]
+
+[MalDev Academy](https://maldevacademy.com/) 中 Binary Entropy Reduction 章节的文件上计算器 Golang 实现
+
 用于计算二进制文件熵值
 
 根据 https://practicalsecurityanalytics.com/file-entropy/ 可得知合法软件与恶意软件熵值的分布
@@ -44,3 +48,7 @@ https://github.com/yutianqaq/EntropyCalc/releases
 
 ![alt text](Pictures/image-1.png)
 
+# 参考
+- https://practicalsecurityanalytics.com/file-entropy/ 
+- https://rosettacode.org/wiki/Entropy#Go 
+- [MalDev Academy](https://maldevacademy.com/)
