@@ -1,6 +1,6 @@
 # EntropyCalc_Go
 
-[English](https://github.com/yutianqaq/EntropyCalc_Go/readme_en.md) [简体中文]
+[English](https://github.com/yutianqaq/EntropyCalc_Go/blob/main/readme_en.md) [简体中文]
 
 [MalDev Academy](https://maldevacademy.com/) 中 Binary Entropy Reduction 章节的二进制文件熵计算器的 Golang 实现
 
