@@ -6,7 +6,9 @@
 
 合法软件熵值为 4.8 - 7.2 之间
 
-恶意软件熵值大于 7.2
+恶意软件熵值大于 7.2 (用红色标识）
+
+可以配合 https://github.com/yutianqaq/Supernova_CN 来加密 Shellcode，降低熵值
 
 ## 安装
 
@@ -32,10 +34,13 @@ https://github.com/yutianqaq/EntropyCalc/releases
 
 恶意软件
 
+熵值用红色标识
+
 ![alt text](Pictures/image.png)
 
 合法软件
 
+熵值用绿色标识
+
 ![alt text](Pictures/image-1.png)
 
-可以配合 https://github.com/yutianqaq/Supernova_CN 来加密 Shellcode，降低熵值
