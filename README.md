@@ -26,7 +26,7 @@ go build
 
 ## 下载二进制版本
 
-https://github.com/yutianqaq/EntropyCalc/releases
+[https://github.com/yutianqaq/EntropyCalc/releases](https://github.com/yutianqaq/EntropyCalc_Go/releases)
 
 ## 使用方法
 
