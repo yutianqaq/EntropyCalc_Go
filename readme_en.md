@@ -21,7 +21,7 @@ go build
 
 ### Download Binary Version
 
-[EntropyCalc Releases](https://github.com/yutianqaq/EntropyCalc/releases)
+[https://github.com/yutianqaq/EntropyCalc/releases](https://github.com/yutianqaq/EntropyCalc_Go/releases)
 
 ## Usage
 
